@@ -1,7 +1,5 @@
 <!-- Note: In order to view the .db files please install an extension. Thank you. -->
 # CodeZip: Uniting Programmers since 2024
-
-![Project Banner](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9f011253-b648-4791-aaa7-4b6363cf85df/dg9gev0-4fe90016-2c65-4d85-b567-243997ac9fa2.jpg/v1/fill/w_1280,h_931,q_75,strp/pixelart___cyberpunk_4_by_codecraftsman_dg9gev0-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTMxIiwicGF0aCI6IlwvZlwvOWYwMTEyNTMtYjY0OC00NzkxLWFhYTctNGI2MzYzY2Y4NWRmXC9kZzlnZXYwLTRmZTkwMDE2LTJjNjUtNGQ4NS1iNTY3LTI0Mzk5N2FjOWZhMi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.AsECBElfohlXVfgadUlmViuBKo75p04NuDCI6hT-41Q)  
 *A streamlit based web app to connect tutors with mentors.*
 
 ---
