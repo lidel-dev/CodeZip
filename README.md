@@ -1,4 +1,5 @@
-<!-- Note: In order to view the .db files please install an extension. Thank you. --># Project Name
+<!-- Note: In order to view the .db files please install an extension. Thank you. -->
+# CodeZip: Uniting Programmers since 2024
 
 ![Project Banner](https://via.placeholder.com/1200x300?text=Project+Banner)  
 *A brief tagline or description of your project.*
