@@ -31,9 +31,12 @@ Describe your project in detail:
 
 ## Features
 
-- Responsive design built with Bootstrap.
-- User-friendly interface.
-- [List additional key features here.]
+- Learn the basics of programming with python
+- Learn the basics of programming libraries
+- Learn the basics of programming frameworks such as Django and Streamlit
+- Register as a tutor/client
+- Automatic querying of .db files for tutor/client information
+- Contact information stored in hidden .db file
 
 ---
 
