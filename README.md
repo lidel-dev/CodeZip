@@ -63,3 +63,12 @@ Our site consists of three key sections
    ```bash
    git clone https://github.com/your-username/your-repo.git
    cd your-repo
+   ```
+
+2. Pip install all dependancies
+   ```bash
+   pip install streamlit
+   pip install pandas
+   ```
+
+3. Download an extension to view .db files in your IDE
