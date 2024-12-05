@@ -54,13 +54,13 @@ Our site consists of three key sections
 ### Homepage and Navigation
 ![Screenshot 1](/assets/Site1.png)
 
-### Features Page
+### Programming Overview Pages
 ![Screenshot 2](/assets/Site2.png)
 
-### Dashboard
+### Sign Up Pages
 ![Screenshot 3](/assets/Site3.png)
 
-### Dashboard
+### View Signed Up Users Pages
 ![Screenshot 4](/assets/Site4.png)
 ---
 
