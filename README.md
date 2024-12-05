@@ -65,10 +65,10 @@ Our site consists of three key sections
    cd your-repo
    ```
 
-2. Pip install all dependancies
+2. Pip install all dependancies:
    ```bash
    pip install streamlit
    pip install pandas
    ```
 
-3. Download an extension to view .db files in your IDE
+3. Download an extension to view .db files in your IDE.
