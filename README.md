@@ -52,7 +52,7 @@ Our site consists of three key sections
 ## Screenshots
 
 ### Homepage
-![Screenshot 1](assets/site1.png)
+![Screenshot 1](./assets/site1.png)
 
 ### Features Page
 ![Screenshot 2](https://via.placeholder.com/800x400?text=Screenshot+2)
