@@ -51,15 +51,17 @@ Our site consists of three key sections
 
 ## Screenshots
 
-### Homepage
+### Homepage and Navigation
 ![Screenshot 1](/assets/Site1.png)
 
 ### Features Page
-![Screenshot 2](https://via.placeholder.com/800x400?text=Screenshot+2)
+![Screenshot 2](/assets/Site2.png)
 
 ### Dashboard
-![Screenshot 3](https://via.placeholder.com/800x400?text=Screenshot+3)
+![Screenshot 3](/assets/Site3.png)
 
+### Dashboard
+![Screenshot 4](/assets/Site4.png)
 ---
 
 ## Installation
