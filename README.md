@@ -1,5 +1,5 @@
 <!-- Note: In order to view the .db files please install an extension. Thank you. -->
-# CodeZip: Uniting Programmers since 2024
+# CodeZip: Learn how to code
 *A streamlit based web app to connect tutors with mentors.*
 
 ---
